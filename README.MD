@@ -10,4 +10,4 @@ Known Slight differences:
 
 TODO: Make a second Body in the model that is intended for 3D printing on textured sheet, TABS a little thicker (3 layers), taller, and "modular"
 
-Special Thanks: Doctor Octal of the Brutman PCjr forum graciously sent me an original blanking plate which enabled me to take measurements and create this model. Thank you!!
+Special Thanks: Doctor Octal (http://DoctorOctal.com/) of the Brutman PCjr forum graciously sent me an original blanking plate which enabled me to take measurements and create this model. Thank you!!
